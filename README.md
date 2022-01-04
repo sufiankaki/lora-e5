@@ -1,4 +1,4 @@
-# lora-e5
+# LoRa-E5
 
 This repo contains the Arduino codes to interface a 
 [LoRa-E5](https://www.seeedstudio.com/LoRa-E5-Wireless-Module-p-4745.html) 
